@@ -1,3 +1,4 @@
+#define _GNU_SOURCE
 #include "monty.h"
 
 dlist_t gs;
